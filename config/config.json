@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 27017,
+    "username": "admin",
+    "password": "password123",
+    "databaseName": "myapp_dev"
+  },
+  "api": {
+    "apiKey": "your_api_key_here"
+  },
+  "debug": true
+}
